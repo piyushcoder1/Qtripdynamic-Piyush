@@ -1,4 +1,4 @@
 
-const config = { backendEndpoint: "https://piyushgupta-qtripstatic.netlify.app/" };
+const config = { backendEndpoint: "https://qtrip-dynamic-ao2z.onrender.com/" };
 
 export default config;
